@@ -1,2 +1,5 @@
 # Things we can create...
 Data/
+
+# PyEnv
+.python-version
